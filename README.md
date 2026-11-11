@@ -15,5 +15,6 @@ File	Purpose
 
 Run locally
 The script requires the original inventory_raw.csv, which is absent from the project files provided. Place it alongside analysis.py and run these commands from that folder.
+
 python -m pip install "pandas>=2.0" openpyxl python-docx
 python analysis.py
